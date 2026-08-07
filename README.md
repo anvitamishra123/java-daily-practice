@@ -46,4 +46,24 @@ This repository contains Java programs and exercises I solve daily to strengthen
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0102-binary-tree-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## String
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
