@@ -24,4 +24,20 @@ This repository contains Java programs and exercises I solve daily to strengthen
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/anvitamishra123/java-daily-practice/tree/master/3731-find-missing-elements) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
