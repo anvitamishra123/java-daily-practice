@@ -15,6 +15,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/anvitamishra123/java-daily-practice/tree/master/0152-maximum-product-subarray) |
 | [3731-find-missing-elements](https://github.com/anvitamishra123/java-daily-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -66,4 +67,8 @@ This repository contains Java programs and exercises I solve daily to strengthen
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/anvitamishra123/java-daily-practice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
