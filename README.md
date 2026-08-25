@@ -18,11 +18,13 @@ This repository contains Java programs and exercises I solve daily to strengthen
 | [0033-search-in-rotated-sorted-array](https://github.com/anvitamishra123/java-daily-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/anvitamishra123/java-daily-practice/tree/master/0152-maximum-product-subarray) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anvitamishra123/java-daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anvitamishra123/java-daily-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anvitamishra123/java-daily-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anvitamishra123/java-daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anvitamishra123/java-daily-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anvitamishra123/java-daily-practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
