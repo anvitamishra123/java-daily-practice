@@ -42,15 +42,18 @@ This repository contains Java programs and exercises I solve daily to strengthen
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anvitamishra123/java-daily-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anvitamishra123/java-daily-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anvitamishra123/java-daily-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
