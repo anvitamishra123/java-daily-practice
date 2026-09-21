@@ -20,6 +20,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 | [0215-kth-largest-element-in-an-array](https://github.com/anvitamishra123/java-daily-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anvitamishra123/java-daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/anvitamishra123/java-daily-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anvitamishra123/java-daily-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anvitamishra123/java-daily-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -67,6 +68,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/anvitamishra123/java-daily-practice/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/anvitamishra123/java-daily-practice/tree/master/0152-maximum-product-subarray) |
+| [3524-find-x-value-of-array-i](https://github.com/anvitamishra123/java-daily-practice/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
