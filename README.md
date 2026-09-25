@@ -28,6 +28,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anvitamishra123/java-daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anvitamishra123/java-daily-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anvitamishra123/java-daily-practice/tree/master/3731-find-missing-elements) |
@@ -35,12 +36,14 @@ This repository contains Java programs and exercises I solve daily to strengthen
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anvitamishra123/java-daily-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anvitamishra123/java-daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anvitamishra123/java-daily-practice/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -66,6 +69,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 | ------- |
 | [0100-same-tree](https://github.com/anvitamishra123/java-daily-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anvitamishra123/java-daily-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [1096-brace-expansion-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,10 +80,12 @@ This repository contains Java programs and exercises I solve daily to strengthen
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anvitamishra123/java-daily-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
