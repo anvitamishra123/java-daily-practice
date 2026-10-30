@@ -18,6 +18,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 | [0033-search-in-rotated-sorted-array](https://github.com/anvitamishra123/java-daily-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/anvitamishra123/java-daily-practice/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anvitamishra123/java-daily-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0724-find-pivot-index](https://github.com/anvitamishra123/java-daily-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anvitamishra123/java-daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/anvitamishra123/java-daily-practice/tree/master/3524-find-x-value-of-array-i) |
@@ -124,6 +125,7 @@ This repository contains Java programs and exercises I solve daily to strengthen
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/anvitamishra123/java-daily-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/java-daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Segment Tree
 |  |
